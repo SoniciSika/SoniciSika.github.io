@@ -4,7 +4,7 @@
 title:          Tale
 paginate:       5
 baseurl:        "/tale"
-url:            "https://github.com/SoniciSika/SoniciSika.github.io/blob/master/isikahello"
+url:            "https://github.com/SoniciSika/SoniciSika.github.io"
 
 # Assets
 sass:
