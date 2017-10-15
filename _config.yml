@@ -3,8 +3,8 @@
 # Setup
 title:          Tale
 paginate:       5
-baseurl:        "/tale"
-url:            "https://www.isika.cc"
+baseurl:        ""
+url:            "http://www.isika.cc"
 
 # Assets
 sass:
