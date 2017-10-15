@@ -1,0 +1,30 @@
+# TaleOne:      /:2017-:10-:15/:TaleOne1
+
+# Setup
+title:          Tale
+paginate:       5
+baseurl:        "/tale"
+url:            "https://github.com/SoniciSika/SoniciSika.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         isika
+  url:          isika.cc
+  email:       	isikaiiiii@outlook.com
+
+# Custom vars
+version:        0.01
+github:
+  repo:         https://github.com/SoniciSika/SoniciSika.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
