@@ -3,7 +3,7 @@
 # Setup
 title:          Tale
 paginate:       5
-baseurl:        "/tale"
+baseurl:        ""
 url:            "https://github.com/SoniciSika/SoniciSika.github.io"
 
 # Assets
