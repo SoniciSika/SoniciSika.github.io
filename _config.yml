@@ -28,3 +28,4 @@ github:
 # Gems
 gems:
   - jekyll-paginate
+intensedebate_comments: true
